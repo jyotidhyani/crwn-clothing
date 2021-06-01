@@ -20,4 +20,3 @@ export const ItemsContainer = styled.div`
 export const CollectionItemContainer = styled(CollectionItem)`
   margin-bottom: 30px;
 `;
-
